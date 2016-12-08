@@ -16,5 +16,4 @@ StaskOverFlowを参考にgit.exeのパスを追加してみた。
         gitbin='C:\\Program Files\\Git\\mingw64\\bin\\git.exe',
         repourl='https://github.com/polaris31/buildbot-test.git',
         workdir='gitpoller-workdir', branch='master',
-        
         pollinterval=300)
